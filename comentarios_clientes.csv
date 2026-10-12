@@ -1,0 +1,61 @@
+id,texto,etiqueta,tema,origen
+C001,Me atendieron muy rápido y con mucha amabilidad.,POS,atencion,simulado
+C002,El pedido llegó completo y antes de la hora prevista.,POS,entrega,simulado
+C003,Las promociones de hoy me ayudaron a ahorrar.,POS,promociones,simulado
+C004,Encontré todos los productos que necesitaba.,POS,inventario,simulado
+C005,La aplicación es sencilla y pude pagar sin problemas.,POS,app,simulado
+C006,La cajera fue muy amable durante toda la compra.,POS,atencion,simulado
+C007,Los productos frescos llegaron en excelente estado.,POS,entrega,simulado
+C008,Me gustó que respetaran el descuento anunciado.,POS,promociones,simulado
+C009,Había suficiente mercancía y todo estaba ordenado.,POS,inventario,simulado
+C010,El chatbot resolvió mi duda en pocos segundos.,POS,atencion,simulado
+C011,Recibí mi compra a tiempo y bien empacada.,POS,entrega,simulado
+C012,Los precios fueron mejores de lo que esperaba.,POS,precios,simulado
+C013,Fue fácil encontrar la leche y el pan en la tienda.,POS,inventario,simulado
+C014,La página cargó rápido y terminé mi compra.,POS,app,simulado
+C015,El personal me explicó con paciencia cómo facturar.,POS,atencion,simulado
+C016,Me encantó la calidad de las frutas que recibí.,POS,entrega,simulado
+C017,El cupón funcionó y obtuve un buen descuento.,POS,promociones,simulado
+C018,La tienda estaba limpia y la atención fue excelente.,POS,atencion,simulado
+C019,El seguimiento del pedido fue claro y muy útil.,POS,app,simulado
+C020,Estoy satisfecho con el servicio y volveré a comprar.,POS,atencion,simulado
+C021,Mi pedido llegó incompleto y no me dieron solución.,NEG,entrega,simulado
+C022,La aplicación se cerró justo cuando iba a pagar.,NEG,app,simulado
+C023,La promoción anunciada no se respetó en caja.,NEG,promociones,simulado
+C024,El producto estaba caducado y tuve que devolverlo.,NEG,inventario,simulado
+C025,Esperé demasiado para recibir ayuda del personal.,NEG,atencion,simulado
+C026,Había mucha fila y solo una caja estaba abierta.,NEG,atencion,simulado
+C027,El repartidor llegó muy tarde y sin avisar.,NEG,entrega,simulado
+C028,Me cobraron dos veces el mismo artículo.,NEG,precios,simulado
+C029,El sistema decía disponible pero no había producto.,NEG,inventario,simulado
+C030,La devolución fue complicada y tardaron en atenderme.,NEG,atencion,simulado
+C031,El chatbot no entendió mi pregunta y respondió mal.,NEG,atencion,simulado
+C032,La atención por teléfono fue muy mala.,NEG,atencion,simulado
+C033,Los precios del anaquel no coincidieron con el cobro.,NEG,precios,simulado
+C034,Me enviaron un producto equivocado en mi pedido.,NEG,entrega,simulado
+C035,No me avisaron que habían cambiado el horario.,NEG,atencion,simulado
+C036,La entrega se retrasó por segunda ocasión.,NEG,entrega,simulado
+C037,La página no me dejó finalizar la compra.,NEG,app,simulado
+C038,Un empleado fue grosero cuando pedí información.,NEG,atencion,simulado
+C039,El cupón nunca funcionó y perdí el descuento.,NEG,promociones,simulado
+C040,Las verduras llegaron dañadas y no pude usarlas.,NEG,entrega,simulado
+C041,Quiero saber a qué hora abre la tienda.,NEU,atencion,simulado
+C042,¿Dónde puedo consultar las promociones vigentes?,NEU,promociones,simulado
+C043,Mi pedido está programado para mañana.,NEU,entrega,simulado
+C044,Necesito solicitar la factura de mi compra.,NEU,atencion,simulado
+C045,¿Tienen servicio a domicilio en mi zona?,NEU,entrega,simulado
+C046,El horario publicado es de nueve de la mañana a ocho.,NEU,atencion,simulado
+C047,Quisiera saber si tienen arroz disponible.,NEU,inventario,simulado
+C048,El paquete aparece como en preparación.,NEU,entrega,simulado
+C049,¿Cuál es la política de devoluciones?,NEU,atencion,simulado
+C050,La tienda está cerca de la avenida principal.,NEU,atencion,simulado
+C051,El costo de envío aparece en el resumen.,NEU,precios,simulado
+C052,¿Puedo cambiar la fecha de entrega?,NEU,entrega,simulado
+C053,El pago se registró con tarjeta de débito.,NEU,precios,simulado
+C054,Quisiera información sobre la tarjeta de puntos.,NEU,promociones,simulado
+C055,El chatbot me mostró las opciones de ayuda.,NEU,atencion,simulado
+C056,La promoción termina el domingo por la noche.,NEU,promociones,simulado
+C057,Recibí un mensaje con el número de pedido.,NEU,entrega,simulado
+C058,¿En qué pasillo están los cereales?,NEU,inventario,simulado
+C059,El servicio de atención está disponible en la página.,NEU,atencion,simulado
+C060,Necesito actualizar la dirección de entrega.,NEU,entrega,simulado

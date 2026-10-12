@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv/
+*.pyc
+hf_cache/
+.DS_Store
+# No subir tokens de Hugging Face ni archivos con datos personales.
